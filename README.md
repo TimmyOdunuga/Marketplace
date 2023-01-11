@@ -1,4 +1,4 @@
-# Markeyplace
+# Marketplace
 
 # Getting Started with Create React App
 
